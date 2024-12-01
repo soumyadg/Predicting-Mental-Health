@@ -122,10 +122,10 @@ Mental-Illness-Diagnosis-ML/
 - **`test_models.py`**: Contains unit tests for model training functions.
 - **`test_model_evaluation.py`**: Contains unit tests for model evaluation functions.
 
-
-- ![](sc1.jpg)
-- ![](sc2.jpg)
-
+________
+  ![](sc1.jpg)
+  ![](sc2.jpg)
+________
 
 ## **Contributing**
 If you’d like to contribute to this project, feel free to fork the repository, create a branch for your changes, and submit a pull request. Ensure that all tests pass before submitting your changes.
