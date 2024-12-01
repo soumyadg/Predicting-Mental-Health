@@ -1,4 +1,6 @@
 # Predicting-Mental-Health
+![](mental_health.gif)
+
 
 # Mental Illness Diagnosis Using Machine Learning
 
