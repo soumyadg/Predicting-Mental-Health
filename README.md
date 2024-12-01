@@ -123,7 +123,7 @@ Mental-Illness-Diagnosis-ML/
 - **`test_model_evaluation.py`**: Contains unit tests for model evaluation functions.
 
 ________
-### Unit Test Proof : 
+### Unit Tests : 
   ![](sc1.jpg)
   ![](sc2.jpg)
 ________
